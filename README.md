@@ -11,3 +11,4 @@ seaborn>=0.9.0
 scikit-learn>=0.23.0
 statsmodels>=0.12.2
 pytprch 
+pip install aletheia-dnn
